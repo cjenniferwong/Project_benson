@@ -2,14 +2,14 @@
 
 ## This is a smaller heading
 
-###This is an even smaller heading
+### This is an even smaller heading
 
-####this is a tiny heading
+#### this is a tiny heading
 
 
-#####this is bold
+##### this is bold
 
-##a more top level heading
+## a more top level heading
 
 This is **not** a good example of a readme.
 
