@@ -23,16 +23,16 @@ Here is a checklist of everything that I need to do:
 * ...
 * Profit!
 
-##Responsiblities:
+## Responsiblities:
 | Person | Responsibilitises |
 |---| --- |
 
 
 
-##acknowledgements
+## acknowledgements
 *some* helpf from chad.
 
-##priorities:
+## priorities:
 1. Make Presentation
 2. Collect check
 3. Flight plans
